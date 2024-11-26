@@ -71,4 +71,5 @@ main {
 section.flx {
   row-gap: 16px;
   text-align: center;
+  padding-inline: 16px;
 }
